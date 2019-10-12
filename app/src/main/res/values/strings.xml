@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Your Memories</string>
+    <string name="gps_explaination">Please allow location permission to allow us to save your memory</string>
+    <string name="ok">Ok</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="camera_explanasion">Please allow camera to allow us to get the photo of your memory</string>
+    <string name="memory_added_successfully">Memory added successfully</string>
+</resources>
